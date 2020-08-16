@@ -1,4 +1,4 @@
-### Hello. Sorry for the barren webscape, this should be temporary.
+### Hello. You've encountered my barren webscape. This will have stuff eventually.
 
 <!--
 **parleon/parleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
