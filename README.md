@@ -1,4 +1,4 @@
-### Hello. You've encountered my barren webscape. This will have stuff eventually.
+### I'm a Computer Science + Economics student from Boston College but a lot of my coding skill is self taught.
 
 <!--
 **parleon/parleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
